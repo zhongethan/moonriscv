@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="handshake_4034" />
+    <profile name="sbt 2" modules="HandShake,MoonRiscv,chisel-module-template">
+      <parameters>
+        <parameter value="-Xsource:2.11" />
+      </parameters>
+    </profile>
+  </component>
+</project>

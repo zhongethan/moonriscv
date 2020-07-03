@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SVCompilerDirectivesDefines">
+    <option name="defines">
+      <map>
+        <entry key="/HandShake.v">
+          <value>
+            <map>
+              <entry key="RANDOM">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="3060" />
+                      <option name="replacementList" value="$random" />
+                      <option name="source" value="/HandShake.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RANDOMIZE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="inclusionDependencies">
+                        <list>
+                          <InclusionDependency>
+                            <option name="name" value="RANDOMIZE_GARBAGE_ASSIGN" />
+                            <option name="offset" value="2861" />
+                            <option name="rule" value="DEFINED" />
+                            <option name="source" value="/HandShake.v" />
+                          </InclusionDependency>
+                        </list>
+                      </option>
+                      <option name="offset" value="2861" />
+                      <option name="source" value="/HandShake.v" />
+                    </Body>
+                    <Body>
+                      <option name="inclusionDependencies">
+                        <list>
+                          <InclusionDependency>
+                            <option name="name" value="RANDOMIZE_INVALID_ASSIGN" />
+                            <option name="offset" value="2918" />
+                            <option name="rule" value="DEFINED" />
+                            <option name="source" value="/HandShake.v" />
+                          </InclusionDependency>
+                        </list>
+                      </option>
+                      <option name="offset" value="2918" />
+                      <option name="source" value="/HandShake.v" />
+                    </Body>
+                    <Body>
+                      <option name="inclusionDependencies">
+                        <list>
+                          <InclusionDependency>
+                            <option name="name" value="RANDOMIZE_REG_INIT" />
+                            <option name="offset" value="2969" />
+                            <option name="rule" value="DEFINED" />
+                            <option name="source" value="/HandShake.v" />
+                          </InclusionDependency>
+                        </list>
+                      </option>
+                      <option name="offset" value="2969" />
+                      <option name="source" value="/HandShake.v" />
+                    </Body>
+                    <Body>
+                      <option name="inclusionDependencies">
+                        <list>
+                          <InclusionDependency>
+                            <option name="name" value="RANDOMIZE_MEM_INIT" />
+                            <option name="offset" value="3020" />
+                            <option name="rule" value="DEFINED" />
+                            <option name="source" value="/HandShake.v" />
+                          </InclusionDependency>
+                        </list>
+                      </option>
+                      <option name="offset" value="3020" />
+                      <option name="source" value="/HandShake.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dependencies">
+      <map>
+        <entry key="INIT_RANDOM">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOM">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE_DELAY">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE_GARBAGE_ASSIGN">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE_INVALID_ASSIGN">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE_MEM_INIT">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RANDOMIZE_REG_INIT">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="VERILATOR">
+          <value>
+            <set>
+              <option value="/HandShake.v" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="version" value="548" />
+  </component>
+</project>
