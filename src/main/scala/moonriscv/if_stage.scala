@@ -8,6 +8,6 @@ class if_stage extends Module{
   })
   val pend = !io.ihready
 
-  val if_reg = new if_reg
+  val if_reg = new InstFetch
   if_reg.io.pend := pend
 }

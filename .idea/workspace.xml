@@ -3,6 +3,55 @@
   <component name="ChangeListManager">
     <list default="true" id="07c8f63d-1372-491d-b439-ccc0fdff20ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35bc83c34264a333eb79$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35bc83c34264a333eb79.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35bc83c34264a333eb79.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$390946a22248f19d8782$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$390946a22248f19d8782.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$390946a22248f19d8782.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3af97252a28e9e3452fc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3af97252a28e9e3452fc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3af97252a28e9e3452fc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$588f0c095ac3e1c638a6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$588f0c095ac3e1c638a6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$588f0c095ac3e1c638a6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bfb225ed66b7d34ab94$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bfb225ed66b7d34ab94.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bfb225ed66b7d34ab94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e5ac7c1bbf54a47f605$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e5ac7c1bbf54a47f605.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6e5ac7c1bbf54a47f605.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7aa0eb2f84886f1c06d3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7aa0eb2f84886f1c06d3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7aa0eb2f84886f1c06d3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$903e0e624d9c9c9dc403$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b045681c448aad9db3e8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b045681c448aad9db3e8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b045681c448aad9db3e8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e121b2ba734187ad2433$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e121b2ba734187ad2433.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e121b2ba734187ad2433.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f580a88de9cec7e480a2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f580a88de9cec7e480a2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f580a88de9cec7e480a2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/moonriscv/if_reg.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/moonriscv/InstFetch.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/moonriscv/if_stage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/moonriscv/if_stage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tinyriscv/if_id.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tinyriscv/if_id.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tinyriscv/io.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tinyriscv/io.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tinyriscv/params.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tinyriscv/params.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +65,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,13 +90,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyChisel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="HandShakeGen" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="handshake.HandShakeGen" />
       <module name="HandShake" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="handshake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+      <module name="MoonRiscv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +166,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HandShakeGen" />
       </list>
     </recent_temporary>
@@ -168,29 +238,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="214" key="FileChooserDialogImpl" timestamp="1592103776042">
+    <state x="690" y="264" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1598438661156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592103776042" />
-    <state width="1867" height="270" key="GridCell.Tab.0.bottom" timestamp="1589456171814">
+    <state x="690" y="264" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598438661156" />
+    <state x="690" y="214" key="FileChooserDialogImpl" timestamp="1598267949416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589456171814" />
-    <state width="1867" height="270" key="GridCell.Tab.0.center" timestamp="1589456171814">
+    <state x="690" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598267949416" />
+    <state width="1867" height="270" key="GridCell.Tab.0.bottom" timestamp="1598488526857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589456171814" />
-    <state width="1867" height="270" key="GridCell.Tab.0.left" timestamp="1589456171814">
+    <state width="1867" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598488526857" />
+    <state width="1867" height="270" key="GridCell.Tab.0.center" timestamp="1598488526856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589456171814" />
-    <state width="1867" height="270" key="GridCell.Tab.0.right" timestamp="1589456171814">
+    <state width="1867" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598488526856" />
+    <state width="1867" height="270" key="GridCell.Tab.0.left" timestamp="1598488526855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589456171814" />
-    <state x="577" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1594376843263">
+    <state width="1867" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598488526855" />
+    <state width="1867" height="270" key="GridCell.Tab.0.right" timestamp="1598488526857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594376843263" />
+    <state width="1867" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598488526857" />
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1599216801703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599216801703" />
   </component>
 </project>

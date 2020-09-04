@@ -2,7 +2,7 @@ package tinyriscv
 
 import chisel3._
 
-class params {
+object params {
 
   def CpuResetAdd = 0.U(32.W)
 

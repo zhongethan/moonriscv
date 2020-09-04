@@ -1,0 +1,314 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlCircuitAnnotation",
+    "circuit":{
+      "info":{
+        
+      },
+      "modules":[
+        {
+          "info":{
+            
+          },
+          "name":"ShiftRightlogical",
+          "ports":[
+            {
+              "info":{
+                
+              },
+              "name":"clock",
+              "direction":{
+                
+              },
+              "tpe":{
+                
+              }
+            },
+            {
+              "info":{
+                
+              },
+              "name":"reset",
+              "direction":{
+                
+              },
+              "tpe":{
+                "width":{
+                  "width":1
+                }
+              }
+            },
+            {
+              "info":{
+                
+              },
+              "name":"io_a",
+              "direction":{
+                
+              },
+              "tpe":{
+                "width":{
+                  "width":32
+                }
+              }
+            },
+            {
+              "info":{
+                
+              },
+              "name":"io_b",
+              "direction":{
+                
+              },
+              "tpe":{
+                "width":{
+                  "width":32
+                }
+              }
+            },
+            {
+              "info":{
+                
+              },
+              "name":"io_c",
+              "direction":{
+                
+              },
+              "tpe":{
+                "width":{
+                  "width":32
+                }
+              }
+            }
+          ],
+          "body":{
+            "stmts":[
+              {
+                "stmts":[
+                  {
+                    "info":{
+                      "info":{
+                        "string":"Test.scala 11:23"
+                      }
+                    },
+                    "name":"_T",
+                    "value":{
+                      "op":{
+                        
+                      },
+                      "args":[
+                        {
+                          "name":"io_a",
+                          "tpe":{
+                            "width":{
+                              "width":32
+                            }
+                          },
+                          "kind":{
+                            
+                          },
+                          "flow":{
+                            
+                          }
+                        }
+                      ],
+                      "consts":[
+                        
+                      ],
+                      "tpe":{
+                        "width":{
+                          "width":32
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "info":{
+                      "info":{
+                        "string":"Test.scala 11:33"
+                      }
+                    },
+                    "name":"_T_1",
+                    "value":{
+                      "op":{
+                        
+                      },
+                      "args":[
+                        {
+                          "name":"io_b",
+                          "tpe":{
+                            "width":{
+                              "width":32
+                            }
+                          },
+                          "kind":{
+                            
+                          },
+                          "flow":{
+                            
+                          }
+                        }
+                      ],
+                      "consts":[
+                        4,
+                        0
+                      ],
+                      "tpe":{
+                        "width":{
+                          "width":5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "info":{
+                      "info":{
+                        "string":"Test.scala 11:26"
+                      }
+                    },
+                    "name":"_T_2",
+                    "value":{
+                      "op":{
+                        
+                      },
+                      "args":[
+                        {
+                          "name":"_T",
+                          "tpe":{
+                            "width":{
+                              "width":32
+                            }
+                          },
+                          "kind":{
+                            
+                          },
+                          "flow":{
+                            
+                          }
+                        },
+                        {
+                          "name":"_T_1",
+                          "tpe":{
+                            "width":{
+                              "width":5
+                            }
+                          },
+                          "kind":{
+                            
+                          },
+                          "flow":{
+                            
+                          }
+                        }
+                      ],
+                      "consts":[
+                        
+                      ],
+                      "tpe":{
+                        "width":{
+                          "width":32
+                        }
+                      }
+                    }
+                  },
+                  {
+                    
+                  },
+                  {
+                    "info":{
+                      "info":{
+                        "string":"Test.scala 11:8"
+                      }
+                    },
+                    "loc":{
+                      "name":"io_c",
+                      "tpe":{
+                        "width":{
+                          "width":32
+                        }
+                      },
+                      "kind":{
+                        
+                      },
+                      "flow":{
+                        
+                      }
+                    },
+                    "expr":{
+                      "op":{
+                        
+                      },
+                      "args":[
+                        {
+                          "name":"_T_2",
+                          "tpe":{
+                            "width":{
+                              "width":32
+                            }
+                          },
+                          "kind":{
+                            
+                          },
+                          "flow":{
+                            
+                          }
+                        }
+                      ],
+                      "consts":[
+                        
+                      ],
+                      "tpe":{
+                        "width":{
+                          "width":32
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "main":"ShiftRightlogical"
+    }
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~ShiftRightlogical|ShiftRightlogical>io_c",
+    "sources":[
+      "~ShiftRightlogical|ShiftRightlogical>io_a",
+      "~ShiftRightlogical|ShiftRightlogical>io_b"
+    ]
+  },
+  {
+    "class":"logger.LogLevelAnnotation",
+    "globalLogLevel":{
+      
+    }
+  },
+  {
+    "class":"firrtl.stage.InfoModeAnnotation",
+    "modeName":"append"
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.options.TargetDirAnnotation",
+    "directory":"."
+  },
+  {
+    "class":"firrtl.options.OutputAnnotationFileAnnotation",
+    "file":"ShiftRightlogical"
+  },
+  {
+    "class":"firrtl.stage.OutputFileAnnotation",
+    "file":"ShiftRightlogical"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"."
+  }
+]
